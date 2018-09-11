@@ -1,6 +1,6 @@
 {% set name = "django-widget-tweaks" %}
-{% set version = "1.4.2" %}
-{% set sha256 = "a31c8a2b88af98dba6471db4722a416d1c643c87efecf9a7f17f983a2a553632" %}
+{% set version = "1.4.3" %}
+{% set sha256 = "bc645ef88307bc4ac269ee8ee9e572be814cd4a125c2bb6edb59ffcdc194982d" %}
 
 package:
   name: {{ name|lower }}
